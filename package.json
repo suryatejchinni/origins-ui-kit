@@ -20,7 +20,8 @@
   },
   "files": [
     "dist",
-    "docs"
+    "docs",
+    "src"
   ],
   "scripts": {
     "dev": "next dev",
