@@ -34,3 +34,19 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Documentation
+
+Comprehensive documentation for the UI Kit components is available in the `docs/reference` directory:
+
+- [UI Primitives](docs/reference/ui-primitives.md) - Base components (Button, Input, etc.)
+- [Layout](docs/reference/origins-layout.md) - AppShell, PageContainer, etc.
+- [Navigation](docs/reference/origins-navigation.md) - Sidebar, MobileSidebar
+- [Forms](docs/reference/origins-forms.md) - DatePicker, FormSection
+- [Data Display](docs/reference/origins-data-display.md) - DescriptionList, List
+- [Feedback](docs/reference/origins-feedback.md) - EmptyState, ErrorState, LoadingState
+- [Utilities](docs/reference/origins-utilities.md) - FilterBar, InlineEdit, etc.
+- [Foundations](docs/reference/origins-foundations.md) - ColorPalette, SpacingRadii, TypographyScale
+- [Charts](docs/reference/origins-charts.md) - StatsCard, LineChartCard, etc.
+- [Data Tables](docs/reference/origins-data-tables.md) - DataTable
+- [Theming](docs/reference/origins-theming.md) - ThemeCustomizer, ThemeContext
