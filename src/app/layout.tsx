@@ -15,6 +15,10 @@ const jakarta = Plus_Jakarta_Sans({ subsets: ["latin"], variable: "--font-jakart
 export const metadata: Metadata = {
   title: "Origins Tools UI Kit",
   description: "Internal design system playground",
+  robots: {
+    index: false,
+    follow: false,
+  },
 }
 
 export default function RootLayout({
